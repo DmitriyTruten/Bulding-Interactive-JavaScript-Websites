@@ -1,0 +1,2 @@
+As mentioned, a node is the equivalent of each family member in a family tree. A node is an intersecting point in a tree that also contains data.
+When trying to modify a web page, the script will mostly interact with the DOM element nodes and occasionally text nodes.
