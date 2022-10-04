@@ -86,6 +86,7 @@ nav {
   color: #ffffff;
   background-color: #4c7ef3;
   border-radius: 4px;
+  transition: background-color linear 0.3s;
 }
 
 #introduction a:hover {
@@ -106,6 +107,11 @@ nav {
   margin: 5% auto;
   padding: 2% 5%;
   border-radius: 5px;
+  transition: transform ease-in 0.6s;
+}
+
+.instrument:hover {
+  transform: scale(1.05);
 }
 
 .image {
